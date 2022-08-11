@@ -1,0 +1,8 @@
+#include "../../inc/gui/environnement.hpp"
+
+int main(void)
+{
+    SfmlDisplay gui;
+
+    gui.display();
+}
